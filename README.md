@@ -176,7 +176,7 @@ psql -U postgres -d telecom_db -f sql/05_churn_reporting.sql
 
 ## 🛠️ Tech Stack
 
-`Python 3.10` · `XGBoost` · `SHAP` · `Scikit-learn` · `Pandas` · `PostgreSQL` · `Matplotlib` · `Seaborn`
+`Python 3.10` · `XGBoost` · `SHAP` · `Scikit-learn` · `PostgreSQL` · `Matplotlib` 
 
 ---
 
