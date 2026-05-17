@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+*.pyo
+.env
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_metadata/
+
+# Data (raw data should never be committed — add to repo via DVC or docs)
+data/raw/*.csv
+data/processed/*.csv
+data/processed/*.parquet
+
+# Models (large binary files — use Git LFS or cloud storage)
+models/*.pkl
+models/*.json
+models/*.bin
+
+# Reports (generated artifacts)
+reports/*.png
+reports/*.html
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
