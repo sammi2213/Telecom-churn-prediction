@@ -1,7 +1,7 @@
 # 📡 Telecom Customer Churn Prediction
 
-> **Which customers are about to leave — and why?**  
-> An end-to-end ML pipeline using XGBoost + SHAP to predict and explain customer churn for telecom companies like Jio / Airtel.
+> **Which customers are about to leave and why?**  
+> An end-to-end ML pipeline using XGBoost + SHAP to predict and explain customer churn for telecom companies like Jio / Airtel etc.
 
 ---
 
