@@ -182,4 +182,5 @@ psql -U postgres -d telecom_db -f sql/05_churn_reporting.sql
 
 ## 👤 Author
 
-**Abhinav** — [GitHub](https://github.com/YOUR_USERNAME) · [LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
+**Samiksha** — [GitHub](https://github.com/sammi2213) · [LinkedIn](www.linkedin.com/in/
+samiksha-portfolio)
